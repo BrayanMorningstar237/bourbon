@@ -1,0 +1,21 @@
+BOURBON COPYRIGHT 2022
+"Set/Developer Guide"
+HOW TO SET UP DATABASE FOR PROPER FUNCTIONING
+STEPS
+- Create a DATABASE called bourbon
+ You can use the script in the quotes below to create it dynamically
+ "CREATE DATABASE bourbon"
+ Or you can do it manually
+ - Import the file named "create bourbon tables.sql" to your server under the bourbon database you've just created
+ - If you don't want to Import you can open and copy the script in your favourite editor and paste in your server nder the bourbon database
+ -Once this is done,
+ check for the following tables(4) to ensure everything is available
+ >admins
+ >items
+ >orders
+ >response
+ If the tables are available then you have successfull imported the bourbon database.
+ ** Please, In case of any difficulties encountered with this web application contact me the developer via the original provider of the page to you. **>
+ BOURBON COPYRIGHT 2022
+ BOURBON company ltd
+ Created by BMDev
